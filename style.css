@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+
+.calculator {
+    background-color: green;
+    padding: 250px;
+    margin: 10px 400px;
+}
